@@ -1,0 +1,27 @@
+table {border: 3px solid #6495ed;
+	margin: auto;
+	background-color: #D0E3FA;
+	width: 60%;
+}
+
+h1{
+	text-align: center;
+}
+
+
+th{
+	border: 1px solid black;
+	font-family: arial;
+	font-size: 1.20em;
+	background-image: url('cielo.jpg');
+	padding: 5px;
+}
+
+td{
+	font-family: arial;
+	font-size : 0.80em;
+	border: 1px solid #000099;
+	padding: 5px;
+	text-align: center;
+
+} 

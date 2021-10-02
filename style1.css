@@ -1,0 +1,51 @@
+code 
+{background: black;
+	color: #fff;
+	font-family: italic;
+	font-size: 2rem;
+	border: 2px solid black;
+	display: block;
+	text-align: center;
+}
+section 
+{	float: left;
+	width: 30%;
+	height: 400px;
+	border: 2px solid black;
+	border-radius: 6px;
+	font-family: italic;
+
+
+
+
+}
+
+header,section  
+{
+	margin: 0 2% 20px 1px;
+}
+
+footer
+{
+	clear: both;
+
+}
+
+.class2
+{	
+	color: pink;
+	background: #D12F66;
+	font-family: arial;
+
+}
+
+.class1
+{
+	color: darkblue;
+	background:#6CC0D8;
+
+}
+
+.class3
+{	background:#D9BBF5 ;
+}

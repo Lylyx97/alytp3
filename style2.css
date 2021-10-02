@@ -1,0 +1,15 @@
+div {
+	border: 2px solid white;
+	border-radius: 6px;
+}
+.class4{ border: 2px solid black;
+	border-radius: 6px;
+	text-align: justify;
+	background: #7C1D11;
+	padding: 1em;
+
+}
+.class5{border: 2px solid black;
+border-radius: 2px;
+text-align: justify;
+padding: 1em} 

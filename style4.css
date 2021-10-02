@@ -1,0 +1,57 @@
+table {border: 3px solid #6495ed;
+	margin: auto;
+	width: 80%;
+}
+
+h1{
+	text-align: center;
+}
+
+
+th{
+	border: 1px solid blue;
+	font-family: arial;
+	padding: 70px;
+	color: blue;
+	background: #BADBF0;
+	font-size: 2em;
+
+}
+
+td{
+		border: 1px solid #000099;
+	padding: 5px;
+	text-align: center;
+	width: 45%;
+	
+
+} 
+
+}
+h2 {
+	color: blue;
+
+}
+
+.contenant {
+  position: relative;
+  text-align: center;
+}
+
+.texte_centrer {
+  position: absolute;
+  top: 60%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+  font-size: 2em;
+}
+.texte_centrer2{
+
+	position: absolute;
+  top: 99%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+  font-size: 2em;
+}
+
+
